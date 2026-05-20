@@ -10,14 +10,14 @@
    * MainActivity.java
  
 ## 特徴・こだわり
-    * 松山市、札幌市、津市、東京都、沖縄県の天気情報をすぐに確認できるアプリです。
-    * 天気予報API (livedoor天気互換)[https://weather.tsukumijima.net/]を利用してこのアプリを作成しました。
-    * 画面下部の概要文はスクロールすることで全文確認できます。
+   * 松山市、札幌市、津市、東京都、沖縄県の天気情報をすぐに確認できるアプリです。
+   * 天気予報API（livedoor天気互換）[weather.tsukumijima.net](https://weather.tsukumijima.net/) を利用してこのアプリを作成しました。
+   * 画面下部の概要文はスクロールすることで全文確認できます。
 
 ## 使用技術
-    * 使用言語：Java
-    * 対応Android ：version12以上
-    * 開発ツール： Android Studio
+  * 使用言語：Java
+  * 対応Android ：version12以上
+  * 開発ツール： Android Studio
 
 ## アプリの利用方法
     1.アプリを起動します
