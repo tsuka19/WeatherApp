@@ -16,7 +16,7 @@
 
 ## 使用技術
   * 使用言語：Java
-  * 対応Android ：version12以上
+  * 対応バージョン ：Android 12以上
   * 開発ツール： Android Studio
 
 ## アプリの利用方法
