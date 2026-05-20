@@ -1,5 +1,7 @@
 # 天気予報アプリ
-　アプリ起動時のスクリーンショットです。
+　アプリ起動時のスクリーンショットです。<br>
+ <img width="180" height="370" alt="1000008164 1" src="https://github.com/user-attachments/assets/473503fe-bf38-4556-a5b5-b45bb850e228" />
+
 
 * レイアウト画面は app/src/main/res/layout フォルダに入れております。
    * activity_main.x
@@ -20,6 +22,9 @@
   * 開発ツール： Android Studio
 
 ## アプリの利用方法
+拙いYouTube動画ではありますが、限定公開にて投稿しております。<br>
+[アプリの動作確認動画](https://www.youtube.com/watch?v=oXN3B_533J4)
+
     1.アプリを起動します
     2.最初の画面は松山市の天気情報が表示されます。
     3.画面右上の「︙」ボタンを押すと松山市、札幌市、津市、東京、沖縄が表示されます。
